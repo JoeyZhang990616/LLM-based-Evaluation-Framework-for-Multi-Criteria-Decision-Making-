@@ -14,3 +14,14 @@ This script is responsible for setting up the MCDM tasks and running the initial
 
 ### STEP 2: RUN EVALUATION.PY
 Once Llms-MCDM.py has been executed, you can proceed to run evaluation.py to compare the results of the LLMs with human evaluations. This script loads the results from Llms-MCDM.py and evaluates the models' accuracy by comparing them with human-provided ground truth.
+
+## Datasets
+
+### Data Co-Supply Chain Dataset:
+Data available at: [Data Co-Supply Chain Dataset](https://www.kaggle.com/datasets/jolenechen/datacosupplychaindataset/data)
+
+### Customer Feedback and Satisfaction Dataset:
+Data available at: [Customer Feedback and Satisfaction Dataset](https://www.kaggle.com/datasets/jahnavipaliwal/customer-feedback-and-satisfaction)
+
+### Air Quality and Pollution Evaluation:
+Data available at: [Air Quality and Pollution Evaluation](https://www.kaggle.com/datasets/mujtabamatin/air-quality-and-pollution-assessment/data)
